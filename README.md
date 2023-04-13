@@ -33,3 +33,6 @@ Robotten funker som den skal men litt problemer med pneumatikken
 # Selvsjekk
 
 Roboten skal "sjekke seg selv" med jevne mellomrom. Dette må settes opp.
+
+## Mohamed og Mathilde
+Vi skal jobbe med en Kuka-robot (KR6 R700) som skal brukes i industrien. Roboten har ekstra sikkerhet for å jobbe trygt nær mennesker, og den har 6 roterende akser og en pneumatisk styrt griper. Vi vil bytte ut griperen med en som kan byttes og tilpasses etter bruk. Roboten skal bevege seg i ulike sikkerhetssoner med redusert hastighet basert på krav til sikkerhet (PL). Vi skal bygge et bur rundt roboten med lysgardiner og sektorskanner. Roboten skal styres av en PLS og en industriell PC-basert styring. Målet vårt er å lære om robotsystemer og kunne bygge opp, programmere og kontrollere roboten. Vi vil dokumentere arbeidet med tegninger og kode roboten og PLS'en ved hjelp av kurs på internett og assistanse fra læreren. Vi vil lage en plan for å sette roboten i drift på en sikker og riktig måte og fordele tiden jevnt for å fullføre prosjektet i løpet av året. Vi vil bruke kunnskapen vår fra automasjonsfaget for å gjennomføre prosjektet og vurdere det i forhold til kompetansemål fra vg3 automasjon.
